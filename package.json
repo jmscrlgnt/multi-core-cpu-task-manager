@@ -1,0 +1,10 @@
+{
+  "name": "multi-core-cpu-task-manager",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Interactive multi-core CPU scheduling simulator for FCFS, SJF, Priority, and Round Robin.",
+  "scripts": {
+    "test": "node tests/scheduler-engine.test.js"
+  },
+  "license": "MIT"
+}
